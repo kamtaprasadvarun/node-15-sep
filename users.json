@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jammal",
+        "last_name": "Syde",
+        "email": "jsyde0@wix.com",
+        "gender": "Polygender"
+    },
+    {
+        "id": 2,
+        "first_name": "Michael",
+        "last_name": "Duthy",
+        "email": "mduthy1@nba.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Alexi",
+        "last_name": "Plewes",
+        "email": "aplewes2@ezinearticles.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 4,
+        "first_name": "Brooke",
+        "last_name": "Benedettini",
+        "email": "bbenedettini3@photobucket.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Colly",
+        "last_name": "Mockler",
+        "email": "cmockler4@washingtonpost.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Gabey",
+        "last_name": "Konmann",
+        "email": "gkonmann5@chicagotribune.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Annemarie",
+        "last_name": "Freeland",
+        "email": "afreeland6@google.ca",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Norman",
+        "last_name": "Bamfield",
+        "email": "nbamfield7@who.int",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Allissa",
+        "last_name": "Booton",
+        "email": "abooton8@google.com.br",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Drud",
+        "last_name": "Bothen",
+        "email": "dbothen9@sourceforge.net",
+        "gender": "Male"
+    }
+]
